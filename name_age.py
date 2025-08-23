@@ -1,3 +1,4 @@
+#Write a program that prints your name and age.
 name="Isika"
 age=23
 print(name)
