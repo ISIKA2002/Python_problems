@@ -1,6 +1,6 @@
 # Create variables for a product's price, quantity, and name. Calculate and print the total cost.
 p_name= "Phone"
-p_quantity= 2
+p_quantity= 5
 p_price= 10000
 
 total_cost= p_quantity * p_price
