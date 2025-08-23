@@ -8,12 +8,12 @@ Age= 23
 print(Age)
 print(type(Age))
 
-#float-variable
+#float_variable
 Score= 90.5
 print(Score)
 print(type(Score))
 
-#bloolean
+#bloolean_variable
 Is_employee= True
 print(Is_employee)
 print(type(Is_employee))
