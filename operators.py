@@ -68,6 +68,7 @@ print("if a is present in alphabets:", "a" in alphabets)
 print("if q is not present in alphabets:", "q" not in alphabets)
 '''
 #bitwise Operator
+'''
 a = 5
 b = 2
 print(" a and b:", a & b)
@@ -76,3 +77,4 @@ print(" a xor b:", a ^ b)
 print(" not b:", not b)
 print(" a <<:", a << 1)
 print(" a >>:", a >> 1)
+'''
