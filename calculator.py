@@ -13,4 +13,4 @@ match operator:
     case "/":
         print("Devision=", num1 / num2)     
     case _:
-        print("Enter a valid operater")    
+        print("Enter a valid operater")
